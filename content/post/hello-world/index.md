@@ -29,11 +29,15 @@ J'ai passé plus de temps sur Hackernews, (l'un des seuls sites acceptant de cha
 
 Je me suis ensuite mis à chercher des blogs concernant d'autres sujets; la politique, l'écologie, les sciences... Le fait est qu'il y a en dehors des plateformes tout un écosystème d'écopublication de gens ayant des choses intéressantes à raconter.
 
-## Retrouver un rythme
+## Retrouver un rythme, devenir son propre algorithme
 
 Bien sûr je ne suis pas complètement naïf, je savais qu'il y avait tous ces sites mais en réalité je ne les lisais jamais. Très rapidement mon attention partait sur autre chose et je ne prenais jamais le temps de lire des articles jusqu'au bout. Être contraint à n'avoir rien d'autre à faire par le manque de moyen technique m'a poussé à me recentrer sur mes lectures et à aller plus souvent au bout des choses, à en profiter, et à méditer dessus avant de bondir immédiatement sur un nouveau contenu.
 
-Il me manque simplement la dernière étape, celle de restitution des idées nouvelles issues des lectures et méditations. 
+Si le rythme plus lent et la lecture plus appaisée sont des avantages certains, encore plus que cela c'est le fait de **sélectionner à nouveau moi même les contenus qui me sont proposés** plutôt que d'avoir sans cesse de nouveaux posts capables de me faire réagir poussés en avant par un algorithme essayant de capter au max mon attention. Cet algorithme vicieux qui est censé me proposer des contenus intéressant mais qui finit toujours par mettre en avant des contenus prompt à faire réagir, et non pas réfléchir, une vidéo bête, mignonne, une vidéo rage bait ou l'on est tenté d'aller voir les commentaires pour voir si d'autres gens sont aussi indignés que nous. Ces postes n'apportent rien, mais ils marchent, alors on nous en donne toujours plus. 
+
+Les blogs m'ont ainsi permis de réapprendre à vagabonder numériquement, à penser au fur et à mesure que je consomme, et **à accepter une fin aux nouveaux contenus disponibles**. Quand il n'y a plus rien de nouveau, c'est juste fini et on range le téléphone. 
+
+Aussi après avoir réapris à consommer, il me manque simplement la dernière étape, celle de restitution des idées nouvelles issues des lectures et méditations. 
 
 ## Ecrire son propre blog... pour soi même
 
