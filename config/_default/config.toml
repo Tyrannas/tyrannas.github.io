@@ -1,11 +1,11 @@
 # Change baseurl before deploy
-baseurl = "https://demo.stack.jimmycai.com"
-languageCode = "en-us"
-title = "Hugo Theme Stack Starter"
+baseurl = "https://tyrannas.github.io"
+languageCode = "fr"
+title = "Mens Insana"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
-defaultContentLanguage = "en"
+defaultContentLanguage = "fr"
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
@@ -15,4 +15,12 @@ hasCJKLanguage = false
 disqusShortname = "hugo-theme-stack"
 
 [pagination]
-pagerSize = 5
+pagerSize = 15
+
+[[menu.social]]
+  identifier = "rss"
+  name = "Flux RSS"
+  url = "/index.xml"
+  weight = 40
+  [menu.social.params]
+    icon = "rss"

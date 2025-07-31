@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Lectures
+description: Des résumés ou réflexion sur des lectures
 image:
 
 # Badge style
