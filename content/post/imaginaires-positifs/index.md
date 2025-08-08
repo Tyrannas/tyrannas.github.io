@@ -14,7 +14,7 @@ La science fiction et plus particulièrement les récits d'anticipations ont ét
 
 ## Cloisonnement de l'imagination positive
 
-Cela dit. Je pense que nous avons eu assez de dystopies, d'une part j'ai l'impression que malgré tout ce qui a été imaginé en réalité cela ne change ni le rythme des développements technologiques (en témoigne l'absurde guerre froide énergétique de développements de LLMs de plus en plus gros), ni la façon purement mercantiliste et aliénante dont ces technologies sont développées, ni la montée un peu partout dans le monde de régimes autoritaires et à forte sympathie fachiste. D'autre part, les dystopies nous ont tellement préparé à des futurs catastrophiques que nous en venons à ne pas être surpris lorsque ces derniers adviennent, et même pire, il en devient particulièrement compliqué d'imaginer des modèles de sociétés plus souhaitables, plus soutenables, plus envisageables. Nous avons besoin de pouvoir rêver, et de croire qu'un monde meilleur est réellement possible. Nous avons besoin d'*utopies*. 
+Cela dit. Je pense que nous avons eu assez de dystopies, d'une part j'ai l'impression que malgré tout ce qui a été imaginé en réalité cela ne change ni le rythme des développements technologiques (en témoigne l'absurde guerre froide énergétique de développements de LLMs de plus en plus gros), ni la façon purement mercantiliste et aliénante dont ces technologies sont développées, ni la montée un peu partout dans le monde de régimes autoritaires et à forte sympathie fasciste. D'autre part, les dystopies nous ont tellement préparé à des futurs catastrophiques que nous en venons à ne pas être surpris lorsque ces derniers adviennent, et même pire, il en devient particulièrement compliqué d'imaginer des modèles de sociétés plus souhaitables, plus soutenables, plus envisageables. Nous avons besoin de pouvoir rêver, et de croire qu'un monde meilleur est réellement possible. Nous avons besoin d'*utopies*. 
 
 Besoin d'utopies et surtout de se réaproprier le terme d'utopie, associé courrament à une sorte de naiveté de croire en quelque chose d'impensable, l'utopie doit devenir un projet d'avenir possible désirable et atteignable.
 
@@ -47,11 +47,27 @@ Ces œuvres posent les fondements d’une tradition féminine de la science-fict
 
 On y trouve une volonté constante d’articuler progrès technique, transformation sociale, et dépassement des rôles genrés imposés. Ces autrices ont ouvert des brèches dans l’imaginaire dominant de leur époque, en créant des futurs où les femmes pouvaient penser, diriger, inventer et réformer.
 
-## Idéalisme radical, Ursula Leguin et héritage Solar Punk
+## L'idéalisme radical
+
+### Ursula Leguin
 
 Dans cette continuité de récits imaginaires politisés (et politisant), Ursula Leguin (qui gagne fortement en popularité dans les milieux féministes ces derniers temps (j'ai l'impression)) a proposé à travers différentes de ses œuvres des parti pris politiques forts en s'essayant à imaginer des sociétés concrètes, réalistes avec leurs avantages et leurs défauts de telle sorte à ce que ces sociétés soient souhaitables. Elle a d'ailleurs dans une de ses interviews résumé l'essentiel du propos de cet article:
 
 > Ursula Leguin : “Hard times are coming when we will be wanting the voices of writers who can see alternatives, [...] who can see through our technology obsessed society […] we will need writers who can remember freedom, the realists of a larger reality”
+
+Deux oeuvres sont particulièrement marquantes dans l'idéalisme radical prôné par Leguin:
+
+- *La Main gauche de la nuit* (1969)
+Récit profondément féministe et humaniste explorant une société non-binaire où les individus changent de sexe au cours de leurs envies et de leur cycle reproductif. Un roman assez fort sur la notion de genre et de norme.
+
+- *Les Dépossédés* (1974)
+Considéré comme l’un des romans d’utopie politique les plus marquants du XXe siècle. Suite à une révolution sociale sur une planète, il a été proposé comme résolution du conflit de donner la lune de cette planète aux anarchistes pour fonder leur propre société. On suit dans ce livre un scientifique au fur et à mesure de sa vie sur cette lune, et l'on comprend comment pourrait fonctionner une société autogérée dans sa gouvernance politique, scientifique, alimentaire etc. Il aborde aussi les "retrouvailles" au bout de plusieurs siècles avec la société capitaliste de la planète principale et les débats que cela engendre par la suite.
+
+Il existe de nombreux autres livres sur cette thématique d'imaginaires politiques (que je n'ai pas encore lus) mais faisant tout parti [du cycle de l'Ekumen](https://www.senscritique.com/groupe/Cycle_de_lEkumen/48833).
+
+Celui ci me fait particulièrement envie d'ailleurs: [Le nom du monde est forêt](https://www.senscritique.com/livre/le_nom_du_monde_est_foret/385649)
+
+Pour aller plus loin je conseille cette vidéo, toujours du podcast science fiction: https://www.youtube.com/watch?v=vRC0cK_MSA0
 
 <!-- Ajouter des œuvres spécifiques à citer :
 - *Les Dépossédés* (anarchisme, utopie ambiguë, critique de la propriété)
@@ -62,11 +78,15 @@ Dans cette continuité de récits imaginaires politisés (et politisant), Ursula
 - Utopie écologique post-industrielle, technologique mais sobre
 - Communautés décentralisées, autonomie énergétique, coopération
 - Contraire du cyberpunk : au lieu de la survie dans un monde cassé, la réparation et la régénération -->
+### SolarPunk, HopePunk
 
-## Le cas Damasio
+WIP
+
+### Le cas Damasio
 
 Dans les propositions intéressantes il y a Damasio avec *La Zone du dehors* ou *Les Furtifs*, qui prévoient des futurs dystopiques et des sociétés ultra capitalistes avec milices privées et villes privatisées, mais qui à chaque fois proposent des récits révolutionnaires, de personnages remplis d'espoir cherchant à renverser les systèmes en place.
 
+A étayer.
 <!-- Possibilité d’évoquer aussi :
 - Catherine Dufour (*Le Goût de l’immortalité*) : dystopie éthique, posthumanisme, critique sociale
 - Alain Damasio comme figure de contre-culture politique et de SF insurrectionnelle -->
@@ -75,6 +95,7 @@ Dans les propositions intéressantes il y a Damasio avec *La Zone du dehors* ou 
 
 Ce que certains milliardaires comme Musk ou Bezos peuvent promettre — la conquête spatiale, l'émancipation de la Terre pour coloniser Mars — sont aussi d'une certaine façon des "récits d'anticipation positifs" mais sont le piège de promettre des futurs sans projet politique, uniquement basés sur le progrès technologique. Ce qui ne résout en réalité rien des problématiques actuelles et s'inscrit dans une approche visant à s'opposer fermement à tous les contre-récits proposant de revaloriser un monde plus sobre technologiquement, ceux souhaitant rendre une décroissance désirable.
 
+A étayer.
 <!-- Ajouter une critique explicite du techno-solutionnisme : progrès sans justice sociale, fuite en avant, mythe de l’évasion planétaire -->
 
 ## Quelques projets ayant besoin de ces imaginaires
@@ -93,3 +114,4 @@ Certaines initiatives cherchent à sortir la science-fiction de l’isolement cu
 - **Marseille à 51°**
     - Concours proposant à des gens d'imaginer Marseille plus vivable malgré le réchauffement climatique en 2050 à travers des récits "utopiques."
 
+A étayer.
