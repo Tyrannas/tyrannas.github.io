@@ -51,7 +51,7 @@ On y trouve une volonté constante d’articuler progrès technique, transformat
 
 ### Ursula Leguin
 
-Dans cette continuité de récits imaginaires politisés (et politisant), Ursula Leguin (qui gagne fortement en popularité dans les milieux féministes ces derniers temps (j'ai l'impression)) a proposé à travers différentes de ses œuvres des parti pris politiques forts en s'essayant à imaginer des sociétés concrètes, réalistes avec leurs avantages et leurs défauts de telle sorte à ce que ces sociétés soient souhaitables. Elle a d'ailleurs dans une de ses interviews résumé l'essentiel du propos de cet article:
+Dans cette continuité de récits imaginaires politisés (et politisant), une autrice se dégage particulièrement dans les années 60: Ursula Leguin (qui gagne fortement en popularité dans les milieux féministes ces derniers temps (j'ai l'impression)) a proposé à travers différentes de ses œuvres des parti pris politiques forts en s'essayant à imaginer des sociétés concrètes, réalistes avec leurs avantages et leurs défauts de telle sorte à ce que ces sociétés soient souhaitables. Elle a d'ailleurs dans une de ses interviews résumé l'essentiel du propos de cet article:
 
 > Ursula Leguin : “Hard times are coming when we will be wanting the voices of writers who can see alternatives, [...] who can see through our technology obsessed society […] we will need writers who can remember freedom, the realists of a larger reality”
 
@@ -69,22 +69,19 @@ Celui ci me fait particulièrement envie d'ailleurs: [Le nom du monde est forêt
 
 Pour aller plus loin je conseille cette vidéo, toujours du podcast science fiction: https://www.youtube.com/watch?v=vRC0cK_MSA0
 
-<!-- Ajouter des œuvres spécifiques à citer :
-- *Les Dépossédés* (anarchisme, utopie ambiguë, critique de la propriété)
-- *La main gauche de la nuit* (genre fluide, société non-binaire, alliance et altérité)
--->
-
 <!-- Élargir à l’esthétique solarpunk :
 - Utopie écologique post-industrielle, technologique mais sobre
 - Communautés décentralisées, autonomie énergétique, coopération
 - Contraire du cyberpunk : au lieu de la survie dans un monde cassé, la réparation et la régénération -->
 ### SolarPunk, HopePunk
 
-WIP
+Là où le cyberpunk interrogeait souvent les mouvances contestataires au travers de la réapropriation des espaces numériques et de la modification corporelle au sein de futurs dystopiques
+
+- Eutopia
 
 ### Le cas Damasio
 
-Dans les propositions intéressantes il y a Damasio avec *La Zone du dehors* ou *Les Furtifs*, qui prévoient des futurs dystopiques et des sociétés ultra capitalistes avec milices privées et villes privatisées, mais qui à chaque fois proposent des récits révolutionnaires, de personnages remplis d'espoir cherchant à renverser les systèmes en place.
+Dans les propositions intéressantes il y a Damasio avec *La Zone du dehors* ou *Les Furtifs*, qui prévoient des futurs dystopiques et des sociétés ultra capitalistes avec milices privées et villes privatisées, mais qui à chaque fois proposent des récits révolutionnaires, de personnages remplis d'espoir cherchant à renverser les systèmes en place. Comme la fin des furtifs qui se finit en batailles de ZAD à Porquerolle entre manifestants idéalistes et milices privées / policiers mais qui ressemble presque à une liesse un peu folle tant les zadistes font preuves de créativité dans leurs modes de combats.
 
 A étayer.
 <!-- Possibilité d’évoquer aussi :
@@ -114,4 +111,10 @@ Certaines initiatives cherchent à sortir la science-fiction de l’isolement cu
 - **Marseille à 51°**
     - Concours proposant à des gens d'imaginer Marseille plus vivable malgré le réchauffement climatique en 2050 à travers des récits "utopiques."
 
+- **[Projet Hiéroglyphe](https://en.wikipedia.org/wiki/Project_Hieroglyph)**
+  - test
 A étayer.
+
+## Pistes
+
+Il pourrait être marrant de créer une oeuvre participatives de solarpunk, où chacun / chacune pourrait contribuer en ajoutant des petites histoires et bribes de vie servant à façonner l'identité d'une société imaginée à plusieurs. La difficulté résidrait dans le fait de faire coincider les différentes idées et projections pour le futur que peuvent avoir plusieurs individus.
