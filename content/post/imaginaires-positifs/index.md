@@ -83,17 +83,23 @@ Là où le cyberpunk interrogeait souvent les mouvances contestataires au traver
 
 Dans les propositions intéressantes il y a Damasio avec *La Zone du dehors* ou *Les Furtifs*, qui prévoient des futurs dystopiques et des sociétés ultra capitalistes avec milices privées et villes privatisées, mais qui à chaque fois proposent des récits révolutionnaires, de personnages remplis d'espoir cherchant à renverser les systèmes en place. Comme la fin des furtifs qui se finit en batailles de ZAD à Porquerolle entre manifestants idéalistes et milices privées / policiers mais qui ressemble presque à une liesse un peu folle tant les zadistes font preuves de créativité dans leurs modes de combats.
 
-A étayer.
-<!-- Possibilité d’évoquer aussi :
-- Catherine Dufour (*Le Goût de l’immortalité*) : dystopie éthique, posthumanisme, critique sociale
-- Alain Damasio comme figure de contre-culture politique et de SF insurrectionnelle -->
+Cela denote un peu d'autres oeuvres parlant de révolution (V pour Vendetta ou Rogue One par exemple) où la révolution n'est pas joyeuse ni idéaliste, elle est purement contestataire et violente (et peut être que là c'est mon côté naif qui parle, mais j'ai le sentiment que les mouvements d'opposition peuvent être joyeux même dans la confrontation.)
 
-## Le piège des futurs souhaitables grâce au progrès technologique
 
-Ce que certains milliardaires comme Musk ou Bezos peuvent promettre — la conquête spatiale, l'émancipation de la Terre pour coloniser Mars — sont aussi d'une certaine façon des "récits d'anticipation positifs" mais sont le piège de promettre des futurs sans projet politique, uniquement basés sur le progrès technologique. Ce qui ne résout en réalité rien des problématiques actuelles et s'inscrit dans une approche visant à s'opposer fermement à tous les contre-récits proposant de revaloriser un monde plus sobre technologiquement, ceux souhaitant rendre une décroissance désirable.
+## Le piège des futurs utopiques technosolutionistes
 
-A étayer.
-<!-- Ajouter une critique explicite du techno-solutionnisme : progrès sans justice sociale, fuite en avant, mythe de l’évasion planétaire -->
+Ce que certains milliardaires comme Musk ou Bezos peuvent promettre — la conquête spatiale, l'émancipation de la Terre pour coloniser Mars — sont aussi d'une certaine façon des "récits d'anticipation positifs" mais sont le piège de promettre des futurs sans projet politique, (ou du moins sans projet politique avec une dimension *social*) uniquement basés sur le progrès technologique. Ce qui ne résout en réalité rien des problématiques actuelles et s'inscrit dans une approche visant à s'opposer fermement à tous les contre-récits proposant de revaloriser un monde plus sobre technologiquement, ceux souhaitant rendre une décroissance désirable. Un exemple concret de ce genre de pensée c'est l'idée d'avion à hydrogène censé révolutionner le transport aérien en diminuant fortement la pollution liée au kérozène. En maintenant l'idée que le milieu deviendra "sobre" écologiquement grâce au changement de carburant, on:
+- évite de réfléchir au problème de la surconsommation de l'avion dans le monde et de proposer d'autres manières de faire du tourisme ou de financer des alternatives moins polluantes
+- on légitime le trafic actuel, en permettant qu'il se maintienne  tel quel puisqu'il sera bientôt "vert"
+- [on omet de dire que ce mode de transport sera en réalité encore très polluant ](https://stay-grounded.org/wp-content/uploads/2021/09/Stay-Grounded-Greenwashing-Hydrogen-fr-2021-10-A4.pdf)(bien plus que le train par exemple)
+
+D'où la nécessite toujours d'avoir une pensée politique construite et sociale derrière les utopies à créer. L'utopie ne peut se permettre d'être simplement rêvée elle *doit être réfléchie* pour ne tomber ni dans la naïveté ni dans le greenwashing ou le technosolutionnisme. A ce sujet, [Fatima Vieira propose les quatres axes de la pensée utopiste.](https://www.taylorfrancis.com/chapters/edit/10.1201/9781315265322-10/four-modes-thinking-framed-utopian-discursivity-need-utopia-vieira):
+- réflexion prospective: imaginer le but à atteindre, un but distant mais désirable; ce dont je parlais au début de cet article
+- réflexion critique: être conscient être renseigné sur ce qui ne va pas dans le présent, le futur proposé doit être construit à partir d'une réflexion sur ce que l'on sait actuellement des problèmes de notre société
+- réflexion holistique: à mon sens de loin la composante la plus dure, c'est imaginer la société future dans sa globalité, ne pas se concentrer uniquement sur "regardez on fera pousser des légumes bios dans nos jardins et tout le monde pourra manger" mais sur comment fonctionneront les échanges, les transports, la décision, la vie de communauté, la justice, l'énergie, l'industrie (pour peur qu'il y en ait encore) et de penser à la façon dont toutes ces composantes cruciales à une société sont interconnectées
+- réflexion créative: enfin, allant de pair et en même temps un peu à l'opposé de la réflexion critique, savoir parfois s'abstraire par moment de tout ce qui est en place actuellement pour réfléchir à penser quelque chose de novateur parcequ'on arrive à imaginer "en dehors de la boîte" (comme diraient nos voisins anglophones)
+
+
 
 ## Quelques projets ayant besoin de ces imaginaires
 
