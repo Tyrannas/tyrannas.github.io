@@ -45,7 +45,7 @@ Note: tous ces exemples viennent [du très intéressant podcast sur la véritabl
 
 Ces œuvres posent les fondements d’une tradition féminine de la science-fiction et de l’utopie bien avant leur reconnaissance critique. Il est tout de même à noter que d'autres récits utopiques de cette époque ont également été écrits par des hommes, néanmoins comme ces derniers sont plus souvent mis en avant dans l'histoire de la SF, il était ici plus intéressant de s'intéresser aux femmes et plus particulièrement de par leur position d'infériorité dans la société victorienne. 
 
-On y trouve une volonté constante d’articuler progrès technique, transformation sociale, et dépassement des rôles genrés imposés. Ces autrices ont ouvert des brèches dans l’imaginaire dominant de leur époque, en créant des futurs où les femmes pouvaient penser, diriger, inventer et réformer.
+On y trouve une volonté constante d’articuler progrès technique, transformation sociale, et dépassement des rôles genrés imposés. Ces autrices ont utilisé ces récits à l'encontre de l’imaginaire dominant de leur époque, en créant des futurs / des mondes où les femmes pouvaient penser, diriger, inventer et réformer.
 
 ## L'idéalisme radical
 
