@@ -1,6 +1,6 @@
 ---
 title: "Imaginaires Positifs"
-description: ""
+description: "Garder espoir et donner de la force militante au travers de récits utopistes"
 slug: "imaginaires-positifs"
 date: 2025-07-31T21:06:29+02:00
 categories: [litterature, politique]
