@@ -105,18 +105,20 @@ Ce que certains milliardaires comme Musk ou Bezos peuvent promettre — la conqu
 - [on omet de dire que ce mode de transport sera en réalité encore très polluant ](https://stay-grounded.org/wp-content/uploads/2021/09/Stay-Grounded-Greenwashing-Hydrogen-fr-2021-10-A4.pdf)(bien plus que le train par exemple)
 
 D'où la nécessite toujours d'avoir une pensée politique construite et sociale derrière les utopies à créer. Ca n'est pas pour rien que la droite et l'extrême droite s'allie si souvent au climatoscepticisme d'ailleurs, les discours écologiques radicaux pronant un changement sont politiques et sont anticapitalistes. L'utopie ne peut se permettre d'être simplement rêvée elle *doit être réfléchie* pour ne tomber ni dans la naïveté ni dans le greenwashing ou le technosolutionnisme. A ce sujet, [Fatima Vieira propose les quatres axes de la pensée utopiste.](https://www.taylorfrancis.com/chapters/edit/10.1201/9781315265322-10/four-modes-thinking-framed-utopian-discursivity-need-utopia-vieira):
-- réflexion prospective: imaginer le but à atteindre, un but distant mais désirable; ce dont je parlais au début de cet article
-- réflexion critique: être conscient être renseigné sur ce qui ne va pas dans le présent, le futur proposé doit être construit à partir d'une réflexion sur ce que l'on sait actuellement des problèmes de notre société
-- réflexion holistique: à mon sens de loin la composante la plus dure, c'est imaginer la société future dans sa globalité, ne pas se concentrer uniquement sur "regardez on fera pousser des légumes bios dans nos jardins et tout le monde pourra manger" mais sur comment fonctionneront les échanges, les transports, la décision, la vie de communauté, la justice, l'énergie, l'industrie (pour peur qu'il y en ait encore) et de penser à la façon dont toutes ces composantes cruciales à une société sont interconnectées
-- réflexion créative: enfin, allant de pair et en même temps un peu à l'opposé de la réflexion critique, savoir parfois s'abstraire par moment de tout ce qui est en place actuellement pour réfléchir à penser quelque chose de novateur parcequ'on arrive à imaginer "en dehors de la boîte" (comme diraient nos voisins anglophones)
+- **réflexion prospective:** imaginer le but à atteindre, un but distant mais désirable; ce dont je parlais au début de cet article
+- **réflexion critique:** être conscient être renseigné sur ce qui ne va pas dans le présent, le futur proposé doit être construit à partir d'une réflexion sur ce que l'on sait actuellement des problèmes de notre société
+- **réflexion holistique:** à mon sens de loin la composante la plus dure, c'est imaginer la société future dans sa globalité, ne pas se concentrer uniquement sur "regardez on fera pousser des légumes bios dans nos jardins et tout le monde pourra manger" mais sur comment fonctionneront les échanges, les transports, la décision, la vie de communauté, la justice, l'énergie, l'industrie (pour peur qu'il y en ait encore) et de penser à la façon dont toutes ces composantes cruciales à une société sont interconnectées
+- **réflexion créative:** enfin, allant de pair et en même temps un peu à l'opposé de la réflexion critique, savoir parfois s'abstraire par moment de tout ce qui est en place actuellement pour réfléchir à penser quelque chose de novateur parcequ'on arrive à imaginer "en dehors de la boîte" (comme diraient nos voisins anglophones)
 
 
 
 ## Quelques projets ayant besoin de ces imaginaires
 
-<!-- Nouvelle section suggérée -->
+Si à mon sens ces réflexions sur les imaginaires positifs sont si importantes ça n'est pas seulement pour faire rêver un monde militant, mais aussi pour stimuler l'imaginaire des ingénieur.es et des chercheur.euses qui parfois ont besoin de projets vers lesquels tendre dans leurs réalisations techniques, qui soient autres que les simples intérêts des grosses entreprises. 
 
-Certaines initiatives cherchent à sortir la science-fiction de l’isolement culturel ou littéraire en la reconnectant à des communautés de recherche, d’innovation ou d’activisme. Ces croisements entre créateurs, scientifiques et techniciens permettent d’imaginer des futurs plus souhaitables et cohérents, tout en favorisant une fertilisation croisée des disciplines.
+(a developper).
+
+Pour finir voici enfin ici quelques suggestions de collaborations concrètes pluridisciplinaires entre des institutions et des écrivain.es sur le futur:
 
 
 - **The Terraforming**
